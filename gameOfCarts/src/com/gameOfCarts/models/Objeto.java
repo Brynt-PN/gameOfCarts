@@ -35,18 +35,9 @@ private String tipo;
         this.descripcion = descripcion;
     }
 
-    @Override
-    public void Accion() {
-        Scanner s = new Scanner(System.in);
-        int option;
-        do {
-            System.out.println("Elige una de las operaciones:" + "\n"
-                    + "1) Ver detalles de la carta" + "\n"
-                    + "2) Activar la carta" + "\n"
-                    + "3) Poner la carta boca a bajo" + "\n"
-                    + "4) salir" + "\n");
-            option = s.nextInt();
-            
-        } while (option != 4);
-    }
+    public void Mostrar_datos(){
+            System.out.println("Tipo: "+getTipo());
+            System.out.println("Nombre: "+getNombre());
+            System.out.println("Detalle: "+getDescripcion());
+        }
 }
