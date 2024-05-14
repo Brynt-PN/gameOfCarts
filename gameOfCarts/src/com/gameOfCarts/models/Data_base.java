@@ -7,8 +7,8 @@ import java.util.ArrayList;
 import java.util.Objects;
 
 public class Data_base {
-
-
+    
+    //Guarda los datos de la clase Criaturas en un ArrayList.
     public ArrayList<Objects> SaveCardCri(){
         ArrayList Cri=new ArrayList();
         //Declarar Carta de la clase Criaturas;
@@ -17,6 +17,8 @@ public class Data_base {
         Cri.add(HEA);
         return Cri;
     }
+
+    //Guarda los datos de la clase Objeto en un ArrayList.
     public ArrayList<Objects> SaveCardObj(){
         ArrayList Obj=new ArrayList();
         //Declarar Carta de la clase Objeto;
@@ -26,6 +28,7 @@ public class Data_base {
         return Obj;
     }
 
+    //CrossOver es una fusion de ambas listas en una sola.(no sabia como llamarla y me acorde de mis clases de quimica XD)
     public ArrayList<Object> CrossOver(){
         ArrayList<Object> crossover = new ArrayList<>();
         for(Object card : SaveCardCri()){
@@ -37,7 +40,8 @@ public class Data_base {
         return crossover;
     }
 
-
+    //Recorde que show era mostrar en ingles XD
+    //el if con instanceof sirve para preguntar si la el elemento de la lista card es una instancia de Criaturas o Objeto 
     public void ShowDataCri(){
         Criaturas objA;
         Objeto objB;
