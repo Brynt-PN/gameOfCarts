@@ -75,17 +75,23 @@ public class Criaturas implements Cartas{
         this.def = def;
     }
 
-    //metodo que muestra la info de las clases hijas de Criaturas.
 
+    //Modifique el metodo toString() de la clase Objt para que al hacerle un sout se imprima defrente este mensaje
     @Override
     public String toString() {
         return """
                 ************************************************************************
-                 Tipo        : """ + this.tipo+""" 
-                 Subtipo     : """ + this.subtipo+""" 
-                 Nombre      : """ + this.nombre+""" 
-                 Nivel       : """+ this.nivel+""" 
-                 ATK: """+this.atk+ "DEF: "+this.def+""" 
-                 Descripción : """ + this.descripcion;
-    }
+                Tipo        : """ + this.tipo+"""
+                 
+                Subtipo     : """ + this.subtipo+"""
+                 
+                Nombre      : """ + this.nombre+"""
+                 
+                Nivel       : """+ this.nivel+"""
+                 
+                ATK: """+this.atk+" DEF: "+this.def+"""
+                 
+                Descripción : 
+                """ + this.descripcion;
+    }//Utilice comillas triples para manejar un solo mensaje
 }

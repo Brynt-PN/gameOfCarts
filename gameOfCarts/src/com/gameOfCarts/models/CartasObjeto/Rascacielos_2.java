@@ -4,6 +4,8 @@ package com.gameOfCarts.models.CartasObjeto;
 import com.gameOfCarts.models.Objeto;
 
 public class Rascacielos_2 extends Objeto {
+
+    //Elimine el primer constructor por que no era necesario, y utilice comillas triples en la descripción
     public Rascacielos_2() {
             super(
                     "MÁGICA",

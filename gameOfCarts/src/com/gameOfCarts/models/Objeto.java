@@ -46,15 +46,19 @@ public class Objeto implements Cartas{
         this.descripcion = descripcion;
     }
 
-    //metodo encargado de mostrar los datos una vez hayan sido llenados.
+    //Modifique el metodo toString() de la clase Objt para que al hacerle un sout se imprima defrente este mensaje
     @Override
     public String toString() {
         return """
                 ************************************************************************
                 Tipo        : """ + this.tipo+"""
+                
                 Subtipo     : """ + this.subtipo+"""
+                
                 Nombre      : """ + this.nombre+"""
-                Descripción : """ + this.descripcion;
-    }
+                
+                Descripción : 
+                """ + this.descripcion;
+    }//Utilice comillas triples para manejar un solo mensaje
 
 }

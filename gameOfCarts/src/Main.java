@@ -4,12 +4,12 @@ import com.gameOfCarts.models.Data_base;
 
 public class Main {
     public static void main(String[] args) {
-        //Metodo encargado de mostrar las cartas de ambas clases (Objeto y Criaturas) que esta en la clase Data_base.
+        //Declare las unicas cartas hechas y las instancie, luego las agregue a las listas con la funcion de la db
         Heroe_Elemental_Avian heroeElementalAvian = new Heroe_Elemental_Avian();
         Rascacielos_2 rascacielos2 = new Rascacielos_2();
         Data_base db = new Data_base();
         db.SaveCardCri(heroeElementalAvian);
         db.SaveCardObj(rascacielos2);
-        db.ShowDataCri();
-    }
+        db.ShowData();
+    }//Corre el programa para ver el resultado
 }

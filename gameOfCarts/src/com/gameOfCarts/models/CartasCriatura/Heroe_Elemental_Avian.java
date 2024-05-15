@@ -4,6 +4,7 @@ import com.gameOfCarts.models.Criaturas;
 
 public class Heroe_Elemental_Avian extends Criaturas {
 
+    //Elimine el primer constructor por que no era necesario, y utilice comillas triples en la descripción
     public Heroe_Elemental_Avian() {
         super(
                 "VIENTO",
