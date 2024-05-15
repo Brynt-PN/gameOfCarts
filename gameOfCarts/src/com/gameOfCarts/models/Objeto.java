@@ -47,12 +47,14 @@ public class Objeto implements Cartas{
     }
 
     //metodo encargado de mostrar los datos una vez hayan sido llenados.
-    public void Mostrar_datos(){//Aqui seria mejor hacer un toString()
-        System.out.println("************************************************************************************************************************");
-        System.out.println("Tipo: "+getTipo()+"\n");
-        System.out.println("Subtipo: "+getSubtipo()+"\n");
-        System.out.println("Nombre: "+getNombre()+"\n");
-        System.out.println("Detalle: "+getDescripcion()+"\n");
+    @Override
+    public String toString() {
+        return """
+                ************************************************************************
+                Tipo        : """ + this.tipo+"""
+                Subtipo     : """ + this.subtipo+"""
+                Nombre      : """ + this.nombre+"""
+                Descripción : """ + this.descripcion;
     }
 
 }

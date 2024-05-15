@@ -81,10 +81,11 @@ public class Criaturas implements Cartas{
     public String toString() {
         return """
                 ************************************************************************
-                Tipo        :""" + this.tipo+"""
-                Subtipo     :""" + this.subtipo+"""
-                Nombre      :""" + this.nombre+"""
-                Nivel       :"""+ this.nivel+"""
-                Descripción :""" + this.descripcion;
+                Tipo        : """ + this.tipo+"""
+                Subtipo     : """ + this.subtipo+"""
+                Nombre      : """ + this.nombre+"""
+                Nivel       : """+ this.nivel+"""
+                ATK: """+this.atk+ "DEF: "+this.def+"""
+                Descripción : """ + this.descripcion;
     }
 }
