@@ -11,7 +11,7 @@ public class Rascacielos_2 extends Objeto {
                     "Rascacielos 2 - Ciudad de Héroes",
                     """
                             Una vez por turno, durante tu Main Phase, si controlas esta carta:
-                            puedes seleccionar 1 monstruo HÉROE Elemental en tu Cementerio que 
+                            puedes seleccionar 1 monstruo HÉROE Elemental en tu Cementerio que
                             fuera destruido en batalla y mandado ahí; Invoca ese objetivo
                             de Modo Especial.
                             """);
