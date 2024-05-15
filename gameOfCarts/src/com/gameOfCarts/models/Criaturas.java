@@ -76,13 +76,15 @@ public class Criaturas implements Cartas{
     }
 
     //metodo que muestra la info de las clases hijas de Criaturas.
-    public void Mostrar_datos(){
-        System.out.println("************************************************************************************************************************");
-        System.out.println("Tipo: "+getTipo()+"\n");
-        System.out.println("Subtipo: "+getSubtipo()+"\n");
-        System.out.println("Nombre: "+getNombre()+"\n");
-        System.out.println("Nivel: "+getNivel()+"\n");
-        System.out.println("Detalle: "+getDescripcion()+"\n");
-        System.out.println("ATK: "+getAtk()+"  /   "+"DEF: "+getDef()+"\n");
+
+    @Override
+    public String toString() {
+        return """
+                ************************************************************************
+                Tipo        :""" + this.tipo+"""
+                Subtipo     :""" + this.subtipo+"""
+                Nombre      :""" + this.nombre+"""
+                Nivel       :"""+ this.nivel+"""
+                Descripción :""" + this.descripcion;
     }
 }
