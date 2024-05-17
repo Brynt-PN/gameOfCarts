@@ -19,4 +19,4 @@ public class Main {
         db.ShowData();
     }//Corre el programa para ver el resultado
 }
-
+//Rama oscar modificada, hasta este punto el main es el mismo exactamente que el de la rama oskr en remoto
