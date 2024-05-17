@@ -62,3 +62,4 @@ public class Objeto implements Cartas{
     }//Utilice comillas triples para manejar un solo mensaje
 
 }
+//por ti oskr

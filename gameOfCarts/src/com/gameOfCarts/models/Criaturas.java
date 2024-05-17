@@ -95,3 +95,4 @@ public class Criaturas implements Cartas{
                 """ + this.descripcion;
     }//Utilice comillas triples para manejar un solo mensaje
 }
+//por ti oskr
