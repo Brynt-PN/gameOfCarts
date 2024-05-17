@@ -14,3 +14,4 @@ public class Libro_de_la_Luna extends Objeto {
                         """);
     }
 }
+//por ti oskr

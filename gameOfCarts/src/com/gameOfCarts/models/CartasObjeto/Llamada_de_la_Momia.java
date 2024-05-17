@@ -15,3 +15,4 @@ public class Llamada_de_la_Momia extends Objeto {
                         """);
     }
 }
+//por ti oskr

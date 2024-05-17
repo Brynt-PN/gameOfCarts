@@ -14,3 +14,4 @@ public class El_Tercer_Sarcófago extends Objeto {
                         """);
     }
 }
+//por ti oskr

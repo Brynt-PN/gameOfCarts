@@ -14,3 +14,4 @@ public class Columpio_de_los_Recuerdos extends Objeto {
                         """);
     }
 }
+//por ti oskr

@@ -20,4 +20,4 @@ public class Despertar_de_las_Bestias_Sagradas extends Objeto {
                         puedes añadir a tu mano 1 Trampa Continua en tu Cementerio.
                         """);
     }
-}
+}//por ti oskr

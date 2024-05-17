@@ -13,3 +13,4 @@ public class Liberación_del_Alma extends Objeto {
                         """);
     }
 }
+//por ti oskr

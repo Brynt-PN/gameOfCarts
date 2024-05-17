@@ -13,3 +13,4 @@ public class Señal_de_Héroe extends Objeto {
                         """);
     }
 }
+//por ti oskr

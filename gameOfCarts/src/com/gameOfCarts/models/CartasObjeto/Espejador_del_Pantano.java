@@ -16,3 +16,4 @@ public class Espejador_del_Pantano extends Objeto {
                         """);
     }
 }
+//por ti oskr

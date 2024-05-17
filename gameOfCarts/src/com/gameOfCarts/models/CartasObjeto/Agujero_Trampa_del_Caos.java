@@ -15,3 +15,4 @@ public class Agujero_Trampa_del_Caos extends Objeto {
                         """);
     }
 }
+//por ti oskr

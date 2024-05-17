@@ -15,4 +15,4 @@ public class Libro_de_la_Vida extends Objeto {
                         y además destierra el segundo objetivo.
                         """);
     }
-}
+}//por ti oskr

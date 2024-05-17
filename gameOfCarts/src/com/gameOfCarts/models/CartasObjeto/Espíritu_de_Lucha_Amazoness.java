@@ -14,3 +14,4 @@ public class Espíritu_de_Lucha_Amazoness extends Objeto {
                         """);
     }
 }
+//por ti oskr

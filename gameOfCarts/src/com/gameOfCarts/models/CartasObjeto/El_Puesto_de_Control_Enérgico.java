@@ -15,3 +15,4 @@ public class El_Puesto_de_Control_Enérgico extends Objeto {
                         """);
     }
 }
+//por ti oskr

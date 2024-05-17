@@ -15,4 +15,4 @@ public class Súper_Polimerización extends Objeto {
                        de esta carta.
                         """);
     }
-}
+}//por ti oskr

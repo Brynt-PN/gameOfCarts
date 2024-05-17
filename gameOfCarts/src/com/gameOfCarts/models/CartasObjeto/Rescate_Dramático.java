@@ -15,3 +15,4 @@ public class Rescate_Dramático extends Objeto {
                         """);
     }
 }
+//por ti oskr

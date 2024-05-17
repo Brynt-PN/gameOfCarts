@@ -14,3 +14,4 @@ public class Destrucción_Aplastante extends Objeto {
                         """);
     }
 }
+//por ti oskr

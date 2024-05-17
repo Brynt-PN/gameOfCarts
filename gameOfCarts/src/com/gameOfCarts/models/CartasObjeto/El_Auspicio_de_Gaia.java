@@ -13,4 +13,4 @@ public class El_Auspicio_de_Gaia extends Objeto {
                         el controlador de esta carta recibe 3000 puntos de daño.
                         """);
     }
-}
+}//por ti oskr

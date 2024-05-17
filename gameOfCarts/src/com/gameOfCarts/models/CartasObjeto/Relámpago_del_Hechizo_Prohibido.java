@@ -15,3 +15,4 @@ public class Relámpago_del_Hechizo_Prohibido extends Objeto {
                         """);
     }
 }
+//por ti oskr

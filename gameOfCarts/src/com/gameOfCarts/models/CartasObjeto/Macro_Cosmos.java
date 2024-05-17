@@ -16,3 +16,4 @@ public class Macro_Cosmos extends Objeto {
                         """);
     }
 }
+//por ti oskr

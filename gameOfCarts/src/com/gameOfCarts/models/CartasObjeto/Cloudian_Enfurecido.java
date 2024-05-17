@@ -16,3 +16,4 @@ public class Cloudian_Enfurecido extends Objeto {
                         """);
     }
 }
+//por ti oskr

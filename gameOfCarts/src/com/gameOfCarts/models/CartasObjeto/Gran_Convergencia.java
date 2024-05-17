@@ -13,4 +13,4 @@ public class Gran_Convergencia extends Objeto {
                         a tu adversario y, si lo haces, destruye todos los monstruos en el Campo.
                         """);
     }
-}
+}//por ti oskr

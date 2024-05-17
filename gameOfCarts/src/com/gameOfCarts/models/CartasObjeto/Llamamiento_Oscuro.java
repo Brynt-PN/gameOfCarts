@@ -16,3 +16,4 @@ public class Llamamiento_Oscuro extends Objeto {
                         """);
     }
 }
+//por ti oskr

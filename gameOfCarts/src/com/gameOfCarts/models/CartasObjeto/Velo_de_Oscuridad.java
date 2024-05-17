@@ -15,3 +15,4 @@ public class Velo_de_Oscuridad extends Objeto {
                         """);
     }
 }
+//por ti oskr

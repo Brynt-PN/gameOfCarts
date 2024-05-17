@@ -14,3 +14,4 @@ public Relámpago_del_Mundo_Oscuro() {
                     """);
 }
 }
+//por ti oskr

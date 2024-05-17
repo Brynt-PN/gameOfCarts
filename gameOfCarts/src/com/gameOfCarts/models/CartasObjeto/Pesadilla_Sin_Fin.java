@@ -15,3 +15,4 @@ public class Pesadilla_Sin_Fin extends Objeto {
                         """);
     }
 }
+//por ti oskr

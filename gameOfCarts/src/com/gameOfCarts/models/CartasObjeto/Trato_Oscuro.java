@@ -13,3 +13,4 @@ public class Trato_Oscuro extends Objeto {
                         """);
     }
 }
+//por ti oskr

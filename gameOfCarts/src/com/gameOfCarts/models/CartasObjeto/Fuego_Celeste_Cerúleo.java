@@ -20,4 +20,4 @@ public class Fuego_Celeste_Cerúleo extends Objeto {
                         este turno no recibes daño.
                         """);
     }
-}
+}//por ti oskr

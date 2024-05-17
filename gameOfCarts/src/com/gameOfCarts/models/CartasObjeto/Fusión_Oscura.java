@@ -14,4 +14,4 @@ public class Fusión_Oscura extends Objeto {
                         Este turno, tu adversario no puede seleccionarlo con efectos de cartas.
                         """);
     }
-}
+}//por ti oskr

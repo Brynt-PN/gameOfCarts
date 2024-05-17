@@ -15,4 +15,4 @@ public class Arqueras_Amazoness extends Objeto {
                         y además deben atacar este turno, si pueden.
                         """);
     }
-}
+}//por ti oskr

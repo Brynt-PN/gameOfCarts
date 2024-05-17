@@ -15,3 +15,4 @@ public class Pared_de_Disrupción extends Objeto {
                         """);
     }
 }
+//por ti oskr

@@ -15,4 +15,4 @@ public class Encuentro_en_la_Dimensión_Diferente extends Objeto {
                         en Posición de Defensa boca abajo.
                         """);
     }
-}
+}//por ti oskr

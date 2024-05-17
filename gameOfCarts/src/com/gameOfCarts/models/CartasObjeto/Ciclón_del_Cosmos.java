@@ -14,3 +14,4 @@ public class Ciclón_del_Cosmos extends Objeto {
                         """);
     }
 }
+//por ti oskr

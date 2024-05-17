@@ -14,4 +14,4 @@ public class Intercambio_de_Almas extends Objeto {
                         En el turno en que activas esta carta no puedes realizar tu Battle Phase.
                         """);
     }
-}
+}//por ti oskr

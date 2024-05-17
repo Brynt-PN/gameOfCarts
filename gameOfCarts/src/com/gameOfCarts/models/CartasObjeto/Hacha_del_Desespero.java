@@ -14,4 +14,4 @@ public class Hacha_del_Desespero extends Objeto {
                         puedes Sacrificar 1 monstruo; pon esta carta en la parte superior de tu Deck.
                         """);
     }
-}
+}//por ti oskr

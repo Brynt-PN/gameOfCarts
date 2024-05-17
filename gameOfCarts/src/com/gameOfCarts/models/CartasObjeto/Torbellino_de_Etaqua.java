@@ -14,3 +14,4 @@ public class Torbellino_de_Etaqua extends Objeto {
                         """);
     }
 }
+//por ti oskr

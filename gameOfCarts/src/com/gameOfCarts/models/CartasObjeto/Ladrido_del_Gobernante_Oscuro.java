@@ -15,4 +15,4 @@ public class Ladrido_del_Gobernante_Oscuro extends Objeto {
                         ese monstruo del adversario pierde esa misma cantidad de ATK y DEF.
                         """);
     }
-}
+}//por ti oskr

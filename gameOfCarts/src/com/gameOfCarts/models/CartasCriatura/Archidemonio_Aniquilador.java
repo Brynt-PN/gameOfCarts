@@ -20,4 +20,4 @@ public class Archidemonio_Aniquilador extends Criaturas {
                 3000
         );
     }
-}
+}//por ti oskr

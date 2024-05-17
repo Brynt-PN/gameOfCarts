@@ -14,4 +14,4 @@ public class Fuego_de_Dragón extends Objeto {
                         ●Selecciona 1 monstruo con 800 DEF o menos; destruye ese objetivo.
                         """);
     }
-}
+}//por ti oskr

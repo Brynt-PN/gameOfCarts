@@ -19,3 +19,4 @@ public class Rascacielos_2 extends Objeto {
                             """);
     }
 }
+//por ti oskr

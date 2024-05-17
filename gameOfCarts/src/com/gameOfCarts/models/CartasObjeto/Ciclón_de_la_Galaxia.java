@@ -17,3 +17,4 @@ public class Ciclón_de_la_Galaxia extends Objeto {
                         """);
     }
 }
+//por ti oskr

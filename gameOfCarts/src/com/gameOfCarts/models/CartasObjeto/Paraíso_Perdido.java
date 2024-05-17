@@ -21,4 +21,4 @@ public class Paraíso_Perdido extends Objeto {
                         una vez por turno.
                         """);
     }
-}
+}//por ti oskr

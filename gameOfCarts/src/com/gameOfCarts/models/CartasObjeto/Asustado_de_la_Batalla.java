@@ -16,3 +16,4 @@ public class Asustado_de_la_Batalla extends Objeto {
                         """);
     }
 }
+//por ti oskr

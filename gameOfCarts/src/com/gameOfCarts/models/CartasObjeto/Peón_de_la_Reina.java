@@ -15,3 +15,4 @@ public class Peón_de_la_Reina extends Objeto {
                         """);
     }
 }
+//por ti oskr

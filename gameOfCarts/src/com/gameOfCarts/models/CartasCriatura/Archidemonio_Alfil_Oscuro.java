@@ -20,4 +20,4 @@ public class Archidemonio_Alfil_Oscuro extends Criaturas {
                 1400
         );
     }
-}
+}//por ti oskr

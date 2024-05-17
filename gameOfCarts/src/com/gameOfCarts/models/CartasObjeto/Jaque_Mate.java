@@ -15,3 +15,4 @@ public class Jaque_Mate extends Objeto {
                         """);
     }
 }
+//por ti oskr

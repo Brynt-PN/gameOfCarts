@@ -15,4 +15,4 @@ public class Herencia_Amazoness extends Objeto {
                         si el monstruo equipado atacó un monstruo: destruye el monstruo atacado.
                         """);
     }
-}
+}//por ti oskr

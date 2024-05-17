@@ -16,3 +16,4 @@ public class Puerta_a_Otra_Dimensión extends Objeto {
                         """);
     }
 }
+//por ti oskr

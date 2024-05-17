@@ -12,4 +12,4 @@ public class Entierro_Insensato extends Objeto {
                         Manda al Cementerio 1 monstruo en tu Deck.
                         """);
     }
-}
+}//por ti oskr

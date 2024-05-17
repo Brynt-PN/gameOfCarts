@@ -16,3 +16,4 @@ public class Pandemonium extends Objeto {
                         """);
     }
 }
+//por ti oskr

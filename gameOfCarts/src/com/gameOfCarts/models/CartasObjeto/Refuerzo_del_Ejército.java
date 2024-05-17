@@ -13,3 +13,4 @@ public class Refuerzo_del_Ejército extends Objeto {
                         """);
     }
 }
+//por ti oskr

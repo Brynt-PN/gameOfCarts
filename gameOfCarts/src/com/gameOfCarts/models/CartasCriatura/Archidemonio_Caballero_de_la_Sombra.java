@@ -21,4 +21,4 @@ public class Archidemonio_Caballero_de_la_Sombra  extends Criaturas {
                 1600
         );
     }
-}
+}//por ti oskr

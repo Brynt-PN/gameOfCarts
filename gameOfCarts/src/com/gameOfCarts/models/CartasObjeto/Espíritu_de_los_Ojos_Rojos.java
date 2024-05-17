@@ -13,4 +13,4 @@ public class Espíritu_de_los_Ojos_Rojos extends Objeto {
                         Invócalo de Modo Especial.
                         """);
     }
-}
+}//por ti oskr

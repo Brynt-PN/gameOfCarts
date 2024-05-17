@@ -14,3 +14,4 @@ public class Maldición_del_Envejecimiento extends Objeto {
                         """);
     }
 }
+//por ti oskr

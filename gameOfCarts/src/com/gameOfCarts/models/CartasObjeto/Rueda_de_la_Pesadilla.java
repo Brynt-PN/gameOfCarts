@@ -16,4 +16,4 @@ public class Rueda_de_la_Pesadilla extends Objeto {
                         Ese monstruo debe estar en el Campo para activar y resolver este efecto.
                         """);
     }
-}
+}//por ti oskr

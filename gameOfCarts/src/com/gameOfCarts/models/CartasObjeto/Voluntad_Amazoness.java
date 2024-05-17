@@ -13,3 +13,4 @@ public class Voluntad_Amazoness extends Objeto {
                         """);
     }
 }
+//por ti oskr

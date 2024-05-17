@@ -13,4 +13,4 @@ public class Coro_de_Aqua extends Objeto {
                         esos monstruos ganan 500 ATK/DEF.
                         """);
     }
-}
+}//por ti oskr

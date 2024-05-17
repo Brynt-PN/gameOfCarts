@@ -14,3 +14,4 @@ public class Chillido_Cloudian extends Objeto {
                         """);
     }
 }
+//por ti oskr

@@ -21,3 +21,4 @@ public class Deseo_del_Vampiro extends Objeto {
                         """);
     }
 }
+//por ti oskr

@@ -16,3 +16,4 @@ public class Atractivo_de_la_Oscuridad extends Objeto {
                         """);
     }
 }
+//por ti oskr

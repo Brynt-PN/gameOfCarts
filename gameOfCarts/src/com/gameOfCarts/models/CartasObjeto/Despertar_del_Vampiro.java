@@ -14,4 +14,4 @@ public class Despertar_del_Vampiro extends Objeto {
                         Sólo puedes activar 1 "Despertar del Vampiro" por turno.
                         """);
     }
-}
+}//por ti oskr

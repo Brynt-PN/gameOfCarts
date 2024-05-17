@@ -13,4 +13,4 @@ public class Órdenes_de_Ataque_Final extends Objeto {
                         a Posición de Ataque y sus posiciones de batalla no pueden ser cambiadas.
                         """);
     }
-}
+}//por ti oskr

@@ -17,3 +17,4 @@ public class Zoma_de_Calavera extends Objeto {
                         """);
     }
 }
+//por ti oskr

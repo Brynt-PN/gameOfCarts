@@ -16,3 +16,4 @@ public class Chaparrón extends Objeto {
                         """);
     }
 }
+//por ti oskr

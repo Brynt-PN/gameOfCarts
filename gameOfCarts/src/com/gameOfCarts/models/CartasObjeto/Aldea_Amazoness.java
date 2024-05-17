@@ -16,3 +16,4 @@ public class Aldea_Amazoness extends Objeto {
                         """);
     }
 }
+//por ti oskr

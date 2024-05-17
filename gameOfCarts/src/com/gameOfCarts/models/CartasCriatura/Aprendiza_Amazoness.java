@@ -19,4 +19,4 @@ public class Aprendiza_Amazoness extends Criaturas {
                 1300
         );
     }
-}
+}//por ti oskr

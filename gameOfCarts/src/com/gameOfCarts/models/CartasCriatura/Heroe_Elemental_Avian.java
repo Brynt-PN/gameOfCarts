@@ -21,3 +21,4 @@ public class Heroe_Elemental_Avian extends Criaturas {
     }
 
 }
+//por ti oskr

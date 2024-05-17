@@ -16,3 +16,4 @@ public class Aerosol_Cloudian extends Objeto {
                         """);
     }
 }
+//por ti oskr

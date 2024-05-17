@@ -13,3 +13,4 @@ public class Limpiador_de_Contadores extends Objeto {
                         """);
     }
 }
+//por ti oskr

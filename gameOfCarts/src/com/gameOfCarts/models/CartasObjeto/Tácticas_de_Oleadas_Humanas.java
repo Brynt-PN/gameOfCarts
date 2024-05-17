@@ -17,3 +17,4 @@ public class Tácticas_de_Oleadas_Humanas extends Objeto {
                         """);
     }
 }
+//por ti oskr

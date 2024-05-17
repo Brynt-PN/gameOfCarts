@@ -19,4 +19,4 @@ public class El_Primer_Sarcófago extends Objeto {
                         manda al Cementerio todas ellas que controles, incluyendo esta carta.
                         """);
     }
-}
+}//por ti oskr

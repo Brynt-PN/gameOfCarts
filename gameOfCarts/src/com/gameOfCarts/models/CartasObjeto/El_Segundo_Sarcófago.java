@@ -13,4 +13,4 @@ public class El_Segundo_Sarcófago extends Objeto {
                         "El Primer Sarcófago".
                         """);
     }
-}
+}//por ti oskr

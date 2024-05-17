@@ -13,4 +13,4 @@ public class Ciclón_de_Polvo_de_Diamante extends Objeto {
                         si lo haces, roba 1 carta por cada 4 Contadores de Niebla que había en él.
                         """);
     }
-}
+}//por ti oskr

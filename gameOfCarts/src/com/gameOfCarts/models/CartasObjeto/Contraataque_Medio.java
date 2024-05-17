@@ -16,3 +16,4 @@ public class Contraataque_Medio extends Objeto {
                         """);
     }
 }
+//por ti oskr

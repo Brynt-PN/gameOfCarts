@@ -15,3 +15,4 @@ public class Negar_Ataque extends Objeto {
                         """);
     }
 }
+//por ti oskr

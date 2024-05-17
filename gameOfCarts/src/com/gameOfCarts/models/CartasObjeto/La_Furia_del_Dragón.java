@@ -14,3 +14,4 @@ public class La_Furia_del_Dragón extends Objeto {
                         """);
     }
 }
+//por ti oskr

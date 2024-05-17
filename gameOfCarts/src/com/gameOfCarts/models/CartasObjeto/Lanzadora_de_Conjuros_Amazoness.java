@@ -15,3 +15,4 @@ public class Lanzadora_de_Conjuros_Amazoness extends Objeto {
                    """);
     }
 }
+//por ti oskr

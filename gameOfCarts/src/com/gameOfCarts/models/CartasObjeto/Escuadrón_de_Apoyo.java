@@ -15,3 +15,4 @@ public class Escuadrón_de_Apoyo extends Objeto {
                         """);
     }
 }
+//por ti oskr

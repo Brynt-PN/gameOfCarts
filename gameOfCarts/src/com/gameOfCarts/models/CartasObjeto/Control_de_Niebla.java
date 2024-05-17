@@ -15,3 +15,4 @@ public class Control_de_Niebla extends Objeto {
                         """);
     }
 }
+//por ti oskr

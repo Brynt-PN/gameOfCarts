@@ -18,3 +18,4 @@ public class Mente_Malvada extends Objeto {
                         """);
     }
 }
+//por ti oskr

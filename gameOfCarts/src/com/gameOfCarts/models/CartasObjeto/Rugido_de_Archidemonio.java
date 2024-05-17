@@ -13,3 +13,4 @@ public class Rugido_de_Archidemonio extends Objeto {
                         """);
     }
 }
+//por ti oskr

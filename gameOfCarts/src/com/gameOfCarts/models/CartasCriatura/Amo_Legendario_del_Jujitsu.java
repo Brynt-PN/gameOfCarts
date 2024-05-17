@@ -18,4 +18,4 @@ public class Amo_Legendario_del_Jujitsu extends Criaturas {
                 1800
         );
     }
-}
+}//por ti oskr
