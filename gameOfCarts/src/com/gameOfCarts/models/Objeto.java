@@ -1,14 +1,15 @@
 package com.gameOfCarts.models;
 
-import java.util.Scanner;
 
-public class Objeto {
+public class Objeto implements Cartas{
     private String tipo;
+    private String subtipo;
     private String nombre;
     private String descripcion;
 
-    public Objeto(String tipo,String nombre,String descripcion) {
+    public Objeto(String tipo,String subtipo,String nombre,String descripcion) {
         this.tipo = tipo;
+        this.subtipo=subtipo;
         this.nombre = nombre;
         this.descripcion = descripcion;
     }
@@ -19,6 +20,14 @@ public class Objeto {
 
     public void setTipo(String tipo) {
         this.tipo = tipo;
+    }
+
+    public String getSubtipo() {
+        return subtipo;
+    }
+
+    public void setSubtipo(String subtipo) {
+        this.tipo = subtipo;
     }
 
     public String getNombre() {
@@ -37,10 +46,20 @@ public class Objeto {
         this.descripcion = descripcion;
     }
 
-    public void Mostrar_datos(){
-        System.out.println("Tipo: "+getTipo());
-        System.out.println("Nombre: "+getNombre());
-        System.out.println("Detalle: "+getDescripcion());
-    }
+    //Modifique el metodo toString() de la clase Objt para que al hacerle un sout se imprima defrente este mensaje
+    @Override
+    public String toString() {
+        return """
+                ************************************************************************
+                Tipo        : """ + this.tipo+ """
+                
+                """+
+                (!this.subtipo.equals(" ") ? "Subtipo     : " + this.subtipo : "")+"""
+
+                Nombre      : """ + this.nombre+"""
+                
+                Descripción : 
+                """ + this.descripcion;
+    }//Utilice comillas triples para manejar un solo mensaje
 
 }
