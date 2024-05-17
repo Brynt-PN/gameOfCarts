@@ -51,10 +51,11 @@ public class Objeto implements Cartas{
     public String toString() {
         return """
                 ************************************************************************
-                Tipo        : """ + this.tipo+"""
+                Tipo        : """ + this.tipo+ """
                 
-                Subtipo     : """ + this.subtipo+"""
-                
+                """+
+                (!this.subtipo.equals(" ") ? "Subtipo     : " + this.subtipo : "")+"""
+
                 Nombre      : """ + this.nombre+"""
                 
                 Descripción : 
